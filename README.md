@@ -23,3 +23,4 @@ BowTie builds Jekyll when content is pushed to your repository.
 This template can be deployed automatically from the BowTie 'Add Project' interface available at [https://bowtie.io/projects/new](https://bowtie.io/projects/new), or can be pushed to your repository manually.  
 
 _NOTE: This repo does not contain the settings.json file installed during BowTie project creation. You will need the settings.json file in order to build the project on push and to run the [local client](https://github.com/bowtie-io/bowtie-io)._
+
