@@ -70,8 +70,6 @@ exclude:
 
 # define collection objects
 collections:
-  posts:
-    output: true
   authors:
     output: false
   team:
